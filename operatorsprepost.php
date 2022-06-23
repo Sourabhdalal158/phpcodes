@@ -1,5 +1,7 @@
 <html>
     <?php
+    echo"Sourabh";
+    echo"<br>";
     echo"variable <br/>";
     $a= 10;
     $b= 20;

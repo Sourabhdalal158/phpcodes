@@ -1,0 +1,9 @@
+<?php
+echo"sourabh<br/>";
+$a=1;
+var_dump($a);
+$a=(float)$a;
+var_dump($a);
+$a=(double)$a;
+var_dump($a);
+?>
